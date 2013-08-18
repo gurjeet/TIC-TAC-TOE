@@ -1,0 +1,15 @@
+{
+  "name": "ticTacToe",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.0.7",
+    "json3": "~3.2.4","es5-shim": "~2.0.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.0.7",
+    "angular-scenario": "~1.0.7",
+	"sinon":	"~1.7.3",
+	"chai": "~1.7.2",
+	"sinon-chai": "~2.4.0"
+  }
+}
